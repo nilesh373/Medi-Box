@@ -1,7 +1,10 @@
 MediBox
 
 MediBox is a smart pharmaceutical storage system designed to manage medicines effectively. This project focuses on the embedded software that controls the MediBox hardware, providing features such as medication reminders, environmental monitoring, and user interaction through a simple interface.
-![MediBox Logo]([https://example.com/path-to-your-image.png](https://www.google.com/imgres?q=medibox%20embedded%20system&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F756937973%2Ffbdd69b5-6bb2-4b32-b580-d3f5be2165a6&imgrefurl=https%3A%2F%2Fgithub.com%2Fchathura-de-silva%2FSmart-Medibox&docid=9AANp--OENUH_M&tbnid=hJD9Sm0fFK8BaM&vet=12ahUKEwiv-6aW0bWIAxVKzTgGHYnYGdoQM3oECGgQAA..i&w=1177&h=668&hcb=2&ved=2ahUKEwiv-6aW0bWIAxVKzTgGHYnYGdoQM3oECGgQAA))
+
+
+![image](https://github.com/user-attachments/assets/a822b704-b7bc-4998-8c06-725891121235)
+
 Table of Contents
 Introduction
 System Overview
